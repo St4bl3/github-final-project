@@ -18,7 +18,7 @@ Examples of unacceptable behavior:
 
 ## Enforcement
 
-Instances of abusive behavior may be reported to [your-email@example.com]. All complaints will be reviewed and investigated promptly and fairly.
+Instances of abusive behavior may be reported to [dhanushwastaken@gmail.com]. All complaints will be reviewed and investigated promptly and fairly.
 
 Community leaders have the responsibility to ensure a safe and respectful environment. They may remove, edit, or reject contributions that violate this Code of Conduct.
 
